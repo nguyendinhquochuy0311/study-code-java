@@ -1,5 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
+        System.out.println("asdfadg");
         double c = 32.13;
         System.out.println(c);
         String b = "gasdf";

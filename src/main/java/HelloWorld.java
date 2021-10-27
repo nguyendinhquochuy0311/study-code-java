@@ -1,7 +1,12 @@
 public class HelloWorld {
     public static void main(String[] args) {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         System.out.println("asdfadg");
+=======
+        System.out.println("fadfasdgadgasdfasd");
+        System.out.println("gsadfasdg");
+>>>>>>> Stashed changes
 =======
         System.out.println("fadfasdgadgasdfasd");
         System.out.println("gsadfasdg");

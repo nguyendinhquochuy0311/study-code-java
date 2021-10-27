@@ -2,6 +2,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("asdfadg");
+        System.out.println("asdfadg");
 
         System.out.println("fadfasdgadgasdfasd");
         System.out.println("gsadfasdg");
